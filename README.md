@@ -59,7 +59,7 @@ At my best where technical depth meets the boardroom: translating architecture i
 | | |
 |---|---|
 | 🌐 **Resume** | [alantam7891.github.io/resume](https://alantam7891.github.io/resume/) |
-| 💼 **Consulting** | [alantam7891.github.io](https://alantam7891.github.io) |
+| 💼 **Consulting** | [alantam7891.github.io/services_by_Alan](https://alantam7891.github.io/services_by_Alan) |
 | 💼 **LinkedIn** | [linkedin.com/in/alanxujian](https://linkedin.com/in/alanxujian) |
 | ✉️ **Email** | [alan.xujian@gmail.com](mailto:alan.xujian@gmail.com) |
 
